@@ -12,7 +12,7 @@ YOUR_INFO = {
     'bio' : 'A System for Deliciously Fast and Energizing Meals at Work',
     'email' : '', # Leave blank if you'd prefer not to share your email with other conference attendees
     'twitter_username' : 'office_chef', # No @ symbol, just the handle.
-    'github_username' : "fetchpush", 
+    'github_username' : "mroswell", 
     'headshot_url' : '', # Link to your GitHub, Twitter, or Gravatar profile image.
 }
     
